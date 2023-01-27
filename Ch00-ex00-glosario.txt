@@ -1,0 +1,7 @@
+retrieve:recuperar
+span:tiempo de vida
+snippet:fragmento
+inner:inside or contanined whithin somthing else
+bind:atar, ligar
+cat:night hug
+perro:anti-cat
